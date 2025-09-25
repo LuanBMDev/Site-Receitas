@@ -1,0 +1,1 @@
+Dentro desta pasta, ficarão as imagens. Esse arquivo de texto deve ser deletado logo após a inserção de uma imagem nessa pasta. O propósito dele é simplesmente ser um arquivo capaz de revelar a pasta "imagens" no repositório do GitHub.
